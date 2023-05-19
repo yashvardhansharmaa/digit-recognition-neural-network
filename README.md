@@ -43,7 +43,7 @@ The code is divided into several functions, each responsible for a specific task
 
 ## Notes
 
-1. This project is an adaptation of the Kaggle tutorial by Samson Zhang. The original tutorial can be found [here]([https://www.kaggle.com/samsonqian/digit-recognizer-tutorial](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook)). I followed this tutorial and then further expanded on it by adding an additional hidden layer in the neural network.
+1. This project is an adaptation of the Kaggle tutorial by Samson Zhang. The original tutorial can be found [here](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook). I followed this tutorial and then further expanded on it by adding an additional hidden layer in the neural network.
 
 2. The code contains extensive comments to explain each step of the process. This is intentional to further my own understanding of the processes while also making it easy for any beginner to follow.
 
